@@ -8,3 +8,7 @@ Das ist unser Beispiel-Projekt die Arbeit mit Git.
 4. Add the new file to the index `git add example.txt`
 5. Commit your changes `git commit -m "Your commit message here"`
 6. Push your commit `git push`
+
+Tag!
+
+Nacht!
