@@ -10,4 +10,6 @@ Das ist unser Beispiel-Projekt die Arbeit mit Git.
 6. Push your commit `git push`
 
 mein Satz:
-Hi ich bin Stefan und hatte die Kursinhalte vom ersten Frontendteil für mich und andere im eigenen [Wiki](http://wiki.itbs.selfhost.co/doku.php?id=ibex:kursinhalte:start)  dokumentiert. Für den 2.Teil gibt es ein neuen leeren Ordner mit folgend verlinkter start.txt Datei http://wiki.itbs.selfhost.co/doku.php?id=ibex:kursinhalte:kursteil2:start
+Hi ich bin Stefan und hatte die Kursinhalte vom ersten Frontendteil für mich und andere im eigenen [Wiki](https://blmgeotest.synology.me/dokuwiki/doku.php?id=ibex:kursinhalte:kursteil2:start)  dokumentiert. Für den 2.Teil gibt es ein neuen leeren Ordner mit folgend verlinkter start.txt Datei http://wiki.itbs.selfhost.co/doku.php?id=ibex:kursinhalte:kursteil2:start
+oder besser für uns alle gemeinsam hier:
+https://fc3-d37.com/mNj_BgV/dokuwiki/doku.php?id=bhs:kursinhalte:kursteil2:start
