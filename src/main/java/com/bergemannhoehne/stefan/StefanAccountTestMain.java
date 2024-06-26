@@ -5,6 +5,9 @@ package main.java.com.bergemannhoehne.stefan;
 import meineJavaProjekte.demo2.src.main.java.com.bergemannhoehne.niels.Account;
 import meineJavaProjekte.demo2.src.main.java.com.bergemannhoehne.niels.MyAccount;
 */
+
+import main.java.com.bergemannhoehne.niels.StefanAccount;
+
 public class StefanAccountTestMain {
     
     /**
@@ -14,18 +17,21 @@ public class StefanAccountTestMain {
 	public static void main(String[] args) {
 		System.out.println("meineJavaProjekte.demo2.src.main.java.com.bergemannhoehne.stafanPack von Klasse stefanAccountTestMain" + args.length);
 
-		// Account stefa = new StefanAccount(); // Klasse ist noch leer
+		StefansKontoInterface stefa = new StefanAccount(); // Klasse ist noch leer
 
 		// Account stef = new AccountStefan(); // mit erweitereten Interface StefansKotoInterface
 		// Account niels = new MyAccount();
 
-		// StefanAccount ste = new StefanAccount();
+		StefanAccount ste = new StefanAccount();
 
 		// // weiteren Code um die AccountObjekte zu benutzen
 		
-
+		System.out.println(stefa.Kontostand_abfragen());
 		
+		stefa.Geld_ueberweisen(ste, 500);
 
+		System.out.println(stefa.Kontostand_abfragen());
+		System.out.println(ste.Kontostand_abfragen());
 	}
 
 }
