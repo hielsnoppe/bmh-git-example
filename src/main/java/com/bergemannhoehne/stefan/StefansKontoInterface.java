@@ -1,5 +1,5 @@
 //package meineJavaProjekte.demo2.src.main.java.com.bergemannhoehne.stafanPack;
-package main.java.com.bergemannhoehne.stafanPack;        // Pfadanpassung
+package main.java.com.bergemannhoehne.stefan;        // Pfadanpassung
 import main.java.com.bergemannhoehne.niels.Account; // Pfadanpassung
 
 //import meineJavaProjekte.demo2.src.main.java.com.bergemannhoehne.niels.Account;

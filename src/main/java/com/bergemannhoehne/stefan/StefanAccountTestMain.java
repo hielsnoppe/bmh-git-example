@@ -1,7 +1,4 @@
-package main.java.com.bergemannhoehne.stafanPack;
-
-import main.java.com.bergemannhoehne.niels.Account;
-import main.java.com.bergemannhoehne.niels.MyAccount;
+package main.java.com.bergemannhoehne.stefan;
 
 /*package meineJavaProjekte.demo2.src.main.java.com.bergemannhoehne.stafanPack;
 

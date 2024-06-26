@@ -1,10 +1,11 @@
 //package meineJavaProjekte.demo2.src.main.java.com.bergemannhoehne.stafanPack;
-package main.java.com.bergemannhoehne.niels; // original Pfad von Niels
+//package main.java.com.bergemannhoehne.niels; // original Pfad von Niels
+package main.java.com.bergemannhoehne.stefan;
 
 // import meineJavaProjekte.demo2.src.main.java.com.bergemannhoehne.niels.Account; // dieses mit implements
 // andere brauchen: import meineJavaProjekte.demo2.src.main.java.com.bergemannhoehne.stafanPack.*;
 import main.java.com.bergemannhoehne.niels.*; // alles
-import main.java.com.bergemannhoehne.stafanPack.StefansKontoInterface;
+import main.java.com.bergemannhoehne.stefan.StefansKontoInterface;
 
 //import meineJavaProjekte.demo2.src.main.java.com.bergemannhoehne.niels.Account;
 import java.util.Arrays;
@@ -22,10 +23,10 @@ public class AccountStefan implements StefansKontoInterface{
 	}
 
 
-	boolean Geld_einzahlen(Account o);
-	boolean Geld_abheben(Account o);
-	double	Kontostand_abfragen();
-	boolean Geld_ueberweisen(Account o,double betrag);
+	// boolean Geld_einzahlen(Account o);
+	// boolean Geld_abheben(Account o);
+	// double	Kontostand_abfragen();
+	// boolean Geld_ueberweisen(Account o,double betrag);
 
 
 }
