@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+}
+header {
+    background-color: rgb(207, 121, 16);
+    display: flex;
+    justify-content: space-evenly;
+    height: 30px;
+    margin: auto;
+    padding: 0;
+    width: 100%;
+}
+footer {
+    background-color: rgb(88, 87, 87);
+    display: flex;
+    justify-content: center;
+}
