@@ -9,6 +9,9 @@ Das ist unser Beispiel-Projekt die Arbeit mit Git.
 5. Commit your changes `git commit -m "Your commit message here"`
 6. Push your commit `git push`
 
+## Scrum Exercise
+
+[Tailwind](https://tailwindcss.com/docs/)
 
 ## Comments
 
