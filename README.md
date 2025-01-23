@@ -1,4 +1,4 @@
-# Beispiel-Projekt für Git
+# Git-Beispiel-Projekt
 
 Das ist unser Beispiel-Projekt die Arbeit mit Git.
 
